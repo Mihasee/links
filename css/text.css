@@ -1,0 +1,31 @@
+h1{
+font-weight: 400;
+text-transform: capitalize;
+text-align: center;
+letter-spacing: 5px;
+}
+p{
+text-align: justify;
+text-indent: 24px;
+margin: 0;
+line-height: 24px;
+letter-spacing: 2px;
+}
+h2{
+text-transform: capitalize;
+font-style: italic;
+}
+.Crimea{
+float: right;
+margin-left: 20px;
+}
+.map{
+border: solid 2px gray;
+width: 340px;
+float: right;
+}
+.map figcaption{
+background-color: black;
+color: white;
+text-align: right;
+}
